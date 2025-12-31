@@ -8,12 +8,12 @@ Projects Included
 
 2. UI Component Model
 
-Weather App
+3. Weather App
 
-Quiz Game
+4. Quiz Game
 
-Expense Tracker
+5. Expense Tracker
 
-Currency Converter
+6. Currency Converter
 
-Stopwatch & Timer
+7. Stopwatch & Timer
