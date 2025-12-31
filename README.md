@@ -5,15 +5,9 @@ This repository contains all my hands-on projects while following a full JavaScr
 Projects Included
 
 Calculator App
-
 To-Do List
-
 Weather App
-
 Quiz Game
-
 Expense Tracker
-
 Currency Converter
-
 Stopwatch & Timer
