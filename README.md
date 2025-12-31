@@ -6,7 +6,7 @@ Projects Included
 
 1. Guess The Number
 
-To-Do List
+2. UI Component Model
 
 Weather App
 
