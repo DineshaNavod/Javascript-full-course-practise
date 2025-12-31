@@ -20,6 +20,8 @@ document.querySelector('.check').addEventListener('click', function () {
     if (!guessNumber) {
       changeMsg('No Number🥺');
     } else if (secretNumber == guessNumber) {
+      document.querySelector('.number').textContent = secretNumber;
+      document.querySelector('.number').style.width = '20rem';
       document.querySelector('.check').disabled = true;
       changeMsg('Correct Number 😍');
       changeBack('green');
@@ -54,6 +56,8 @@ document.querySelector('.check').addEventListener('click', function () {
 document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('.check').disabled = false;
   secretNumber = Math.trunc(Math.random() * 20) + 1;
+  document.querySelector('.number').textContent = '?';
+  document.querySelector('.number').style.width = '15rem';
   changeBack('#222');
   score = 20;
   printScore();
