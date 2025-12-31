@@ -4,7 +4,7 @@ This repository contains all my hands-on projects while following a full JavaScr
 
 Projects Included
 
-Calculator App
+1. Guess The Number
 
 To-Do List
 
